@@ -1,5 +1,4 @@
-// This returns an array of all the buttons on the page. Note the use of `.querySelectorAll`.
-var buttons = $( "button" );
+// This returns an array of all the buttons on the page
 
 // Use this loop to iterate through `buttons` and create an event listener for each button.
 // With `this`, you should only need to define ONE event listener.
