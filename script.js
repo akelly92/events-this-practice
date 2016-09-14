@@ -1,5 +1,1 @@
-$(document).ready(function () {
-
-  // code should go here
-
-});
+// Add code here...
