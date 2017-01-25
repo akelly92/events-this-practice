@@ -9,7 +9,7 @@ To create an event listener that will print out the text content of a button whe
 1. Clone this repo.
 2. Write code in the starter `script.js` file. You do not need to modify `index.html`.
 
-When you're done, [it should display this functionality](git@github.com:ga-wdi-exercises/events-this-practice.git).
+When you're done, [it should display this functionality](http://ga-wdi-exercises.github.io/events-this-practice/).
 
 ## Hint
 
